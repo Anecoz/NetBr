@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+NetBr/libs
+NetBr/includes
+
 # User-specific files
 *.suo
 *.user
